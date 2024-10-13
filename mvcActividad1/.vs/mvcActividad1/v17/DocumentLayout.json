@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\boostrstrap6.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\boostrstrap6.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|c:\\materias universidad\\programacion web ii\\mvcactividad1\\migrations\\20241013011349_terceramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2294E2B-F2BC-44BF-A848-3667A0F9F566}|mvcActividad1.csproj|solutionrelative:migrations\\20241013011349_terceramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T02:08:27.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "boostrstrap6.min.css",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\boostrstrap6.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\boostrstrap6.min.css",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\boostrstrap6.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\boostrstrap6.min.css",
+              "ViewState": "AgIAAOk0AAAAAAAAAAAAAPw0AAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T02:07:03.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T01:30:59.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T01:30:58.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T01:30:57.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:27:30.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:25:42.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:20:46.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Models\\Productos.cs",
+              "RelativeDocumentMoniker": "Models\\Productos.cs",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Models\\Productos.cs",
+              "RelativeToolTip": "Models\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:19:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241013011349_TerceraMigracion.cs",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Migrations\\20241013011349_TerceraMigracion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241013011349_TerceraMigracion.cs",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Migrations\\20241013011349_TerceraMigracion.cs",
+              "RelativeToolTip": "Migrations\\20241013011349_TerceraMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:13:49.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:04:57.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:00:33.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\MATERIAS UNIVERSIDAD\\PROGRAMACION WEB II\\mvcActividad1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T00:53:17.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
